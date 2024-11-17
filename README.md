@@ -2,8 +2,6 @@
 
 CodeIt is a search engine that indexes over 3,000 coding problems from platforms like LeetCode, InterviewBit, and TechDelight. It uses advanced information retrieval algorithms (BM25 and TF-IDF) to provide highly relevant search results for Data Structures and Algorithms problems.
 
-![CodeIt Preview](public/coding-terminal-svgrepo-com.svg)
-
 ## 🌟 Features
 
 - **Advanced Search Algorithm**: Implements BM25 ranking function with TF-IDF for accurate results
